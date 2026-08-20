@@ -1,0 +1,2 @@
+# SEP-Assignment
+AI Society
